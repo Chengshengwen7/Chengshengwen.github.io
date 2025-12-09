@@ -18,7 +18,7 @@
 
 - <strong>S. Cheng</strong>, S. Liu, B. Chen, C. Du, P. Xiao, X. Luo, L. Wei, Y. Lei, C. Zhao, W. Huang, Psoralidin inhibits osteosarcoma growth and metastasis by downregulating ITGB1 expression via the FAK and PI3K/Akt signaling pathways, Chin Med. 18 (2023) 34. [[Paper]](https://link.springer.com/article/10.1186/s13020-023-00740-w)
 
-- S. Liu, J. Mou, Z. Xiong, J. Liu, C. Du, Z. Zhu, J. Tan,<strong>S. Cheng</strong>, X. Qiu, W. Huang, Y. Lei, J. Liao, Interferon-γ-Induced Mesenchymal Stem Cell Exosomes Attenuate Chondrocyte Senescence and Osteoarthritis Progression by Hsp70, ACS Nano. (2025). [[Paper]]()
+- S. Liu, J. Mou, Z. Xiong, J. Liu, C. Du, Z. Zhu, J. Tan,<strong>S. Cheng</strong>, X. Qiu, W. Huang, Y. Lei, J. Liao, Interferon-γ-Induced Mesenchymal Stem Cell Exosomes Attenuate Chondrocyte Senescence and Osteoarthritis Progression by Hsp70, ACS Nano. (2025). [[Paper]](https://pubmed.ncbi.nlm.nih.gov/41309442/)
 
 
-- Y. Zeng, C. Du, P. Xiao, Y. Lei, P. Zhao, Z. Zhu, S. Gao, B. Chen,<strong>S. Cheng</strong>, W. Huang, C. Zhao, Sox9-Increased miR-322-5p Facilitates BMP2-Induced Chondrogenic Differentiation by Targeting Smad7 in Mesenchymal Stem Cells, Stem Cells Int. 2021 (2021) 9778207. [[Paper]]()
+- Y. Zeng, C. Du, P. Xiao, Y. Lei, P. Zhao, Z. Zhu, S. Gao, B. Chen,<strong>S. Cheng</strong>, W. Huang, C. Zhao, Sox9-Increased miR-322-5p Facilitates BMP2-Induced Chondrogenic Differentiation by Targeting Smad7 in Mesenchymal Stem Cells, Stem Cells Int. 2021 (2021) 9778207. [[Paper]](https://pubmed.ncbi.nlm.nih.gov/34777504/)
