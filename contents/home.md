@@ -2,16 +2,16 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently a doctoral student at the First Affiliated Hospital of Chongqing Medical University.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: 9957338490[at]qq.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Bachelor's degree, Clinical medicine, Zunyi  Medical University (ZYMU), 2014.9-2019.6 .\
+Academic Master, Chongqing  Medical University (CQMU), 2020.9-2023.6 
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Biological materials, bone defects, bone cells, 3D printing.
 
